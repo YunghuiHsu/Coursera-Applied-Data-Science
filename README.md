@@ -2,5 +2,5 @@
 
 Assignment Practice
 
-follow as: 
+source: 
 https://github.com/Qian-Han/coursera-Applied-Data-Science-with-Python/blob/master/Introduction-to-Data-Science-in-Python/
